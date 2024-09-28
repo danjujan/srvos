@@ -12,6 +12,7 @@ exposeModules ./. [
   ./hardware/hetzner-online/arm.nix
   ./hardware/hetzner-online/ex101.nix
   ./hardware/hetzner-online/intel.nix
+  ./hardware/raspberrypi
   ./hardware/vultr/bare-metal.nix
   ./hardware/vultr/vm.nix
   ./mixins/cloud-init.nix
